@@ -1,0 +1,1 @@
+My first neural network which I later modified into a predictive model for predicting the weather for a school science project.

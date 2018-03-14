@@ -1,0 +1,8 @@
+D:\Leonid\Programming\Newest\NNet\Weather\bin\Debug\Weather.exe.config
+D:\Leonid\Programming\Newest\NNet\Weather\bin\Debug\Weather.exe
+D:\Leonid\Programming\Newest\NNet\Weather\bin\Debug\Weather.pdb
+D:\Leonid\Programming\Newest\NNet\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+D:\Leonid\Programming\Newest\NNet\Weather\obj\Debug\Weather.exe
+D:\Leonid\Programming\Newest\NNet\Weather\obj\Debug\Weather.pdb
+D:\Leonid\Programming\Newest\NNet\Weather\bin\Debug\NNet.dll
+D:\Leonid\Programming\Newest\NNet\Weather\bin\Debug\NNet.pdb

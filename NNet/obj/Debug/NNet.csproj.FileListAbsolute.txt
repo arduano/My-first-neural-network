@@ -1,0 +1,10 @@
+c:\users\leoni\onedrive\documents\visual studio 2010\Projects\NNet\NNet\bin\Debug\NNet.dll
+c:\users\leoni\onedrive\documents\visual studio 2010\Projects\NNet\NNet\bin\Debug\NNet.pdb
+c:\users\leoni\onedrive\documents\visual studio 2010\Projects\NNet\NNet\obj\Debug\NNet.dll
+c:\users\leoni\onedrive\documents\visual studio 2010\Projects\NNet\NNet\obj\Debug\NNet.pdb
+C:\Users\leoni\onedrive\documents\visual studio 2010\Projects\NNet\NNet\obj\Debug\NNet.csprojResolveAssemblyReference.cache
+D:\Leonid\Programming\Newest\NNet\NNet\bin\Debug\NNet.dll
+D:\Leonid\Programming\Newest\NNet\NNet\bin\Debug\NNet.pdb
+D:\Leonid\Programming\Newest\NNet\NNet\obj\Debug\NNet.csprojResolveAssemblyReference.cache
+D:\Leonid\Programming\Newest\NNet\NNet\obj\Debug\NNet.dll
+D:\Leonid\Programming\Newest\NNet\NNet\obj\Debug\NNet.pdb

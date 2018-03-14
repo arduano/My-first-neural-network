@@ -1,0 +1,20 @@
+c:\users\leoni\onedrive\documents\visual studio 2010\Projects\NNet\IO\bin\Debug\IO.exe
+c:\users\leoni\onedrive\documents\visual studio 2010\Projects\NNet\IO\bin\Debug\IO.pdb
+c:\users\leoni\onedrive\documents\visual studio 2010\Projects\NNet\IO\bin\Debug\NNet.dll
+c:\users\leoni\onedrive\documents\visual studio 2010\Projects\NNet\IO\bin\Debug\NNet.pdb
+c:\users\leoni\onedrive\documents\visual studio 2010\Projects\NNet\IO\obj\x86\Debug\IO.csprojResolveAssemblyReference.cache
+c:\users\leoni\onedrive\documents\visual studio 2010\Projects\NNet\IO\obj\x86\Debug\IO.Properties.Resources.resources
+c:\users\leoni\onedrive\documents\visual studio 2010\Projects\NNet\IO\obj\x86\Debug\IO.csproj.GenerateResource.Cache
+c:\users\leoni\onedrive\documents\visual studio 2010\Projects\NNet\IO\obj\x86\Debug\IO.exe
+c:\users\leoni\onedrive\documents\visual studio 2010\Projects\NNet\IO\obj\x86\Debug\IO.pdb
+C:\Users\leoni\onedrive\documents\visual studio 2010\Projects\NNet\IO\obj\x86\Debug\IO.Form1.resources
+D:\Leonid\Programming\Newest\NNet\IO\obj\x86\Debug\IO.exe
+D:\Leonid\Programming\Newest\NNet\IO\obj\x86\Debug\IO.pdb
+D:\Leonid\Programming\Newest\NNet\IO\bin\Debug\IO.exe
+D:\Leonid\Programming\Newest\NNet\IO\bin\Debug\IO.pdb
+D:\Leonid\Programming\Newest\NNet\IO\bin\Debug\NNet.dll
+D:\Leonid\Programming\Newest\NNet\IO\bin\Debug\NNet.pdb
+D:\Leonid\Programming\Newest\NNet\IO\obj\x86\Debug\IO.csprojResolveAssemblyReference.cache
+D:\Leonid\Programming\Newest\NNet\IO\obj\x86\Debug\IO.Form1.resources
+D:\Leonid\Programming\Newest\NNet\IO\obj\x86\Debug\IO.Properties.Resources.resources
+D:\Leonid\Programming\Newest\NNet\IO\obj\x86\Debug\IO.csproj.GenerateResource.Cache
